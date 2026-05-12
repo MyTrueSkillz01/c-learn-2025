@@ -1,3 +1,6 @@
+Nama : Ihsan Dwika Putra
+NIM : 103012400119
+
 # Laravel StudyGroup API
 
 REST API menggunakan Laravel (versi 11) dengan autentikasi JWT, CRUD resource, relasi antar entitas (1:M), dan custom JSON exception handling.
